@@ -1,6 +1,6 @@
 # NHL Information DRF Project
 
-The project & it's associated README are quite simple. The project uses Django and the Django REST Framework to create a API containing hockey team information.
+The project & it's associated README are quite simple. The project uses Django and the Django REST Framework (DRF) to create a API containing hockey team information.
 
 ## Running the Project:
 You can run the project using a virtual environment or locally, but ensure `python3`/`python` is on your system.
